@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TechFo</string>
+    <string-array name="tech_name">
+        <item>PlayStation 5</item>
+        <item>Xbox Series X/S</item>
+
+    </string-array>
+
+    <string-array name="tech_desc">
+        <item>
+            PlayStation 5 menggunakan AMD Zen 2 dengan 8 inti yang berjalan hingga 3.5 GHz. GPU menggunakan system-on-chip (SOC) berdasarkan AMD RDNA 2, dengan 36 compute units yang berjalan hingga 2.23 GHz, dan mampu menghasilkan 10.28 TFLOPS. CPU dan GPU menggunakan teknologi AMD SmartShift yang mengatur frekuensi berdasarkan penggunaan, untuk mencapai performa dan penggunaan daya yang ideal. Mark Cerny megatakan bahwa perbandingan langsung berdasarkan compute unit maupun FLOPS mungkin tidak akurat. GPU memiliki dukungan perangkat keras untuk ray-tracing, memungkinkan ray-tracing secara realtime. PS 5 menggunakan 16GB GDDR6 SDRAM dengan bandwith 448 GB/s.
+            Penyimpanan SSD khusus dirancang untuk PlayStation 5 untuk memberikan kecepatan input dan output sehingga waktu muat lebih cepat dan bandwitdh lebih lebar untuk game yang lebih imersif, serta dukungan untuk pemutaran 8K melalui cakram blue-ray maupun streaming. Memiliki SSD 825 GB dengan kecepatan 5.5 GB/s tanpa kompresi, atau 8 hingga 9 GB/s dengan kompresi menggunakan protokol Oodle Kraken dari RAD Game Tools. Ukuran 825 GB dianggap lebih optimal untuk sistem penyimpanan yang digunakan oleh PlayStation 5 dibandingkan 500 GB maupun 1 TB. Penyimpanan permainan dapat ditambah menggunakan port NVMe yang mendukung format M.1 dan M.2, penyimpanan untuk kebutuhan lain dapat menggunakan port USB. PS 5 memiliki cakram optik Ultra HD Blu-ray. Meski pemasangan dari cakram wajib, pengguna dapat memilih bagian yang ingin dipasang, misalkan hanya memasang komponen multiplayer saja.
+            Sony mengembangkan sistem jeda permainan untuk PS 5 sehingga lebih rendah daya dibandingkan dengan PS 4. Sony juga telah mengkonfirmasi bahwa PS5 mampu mendukung visual 4K pada 120 Hz bagi mereka yang memiliki TV yang dapat mendukung kemampuan yang sama. 120 Hz sendiri adalah kecepatan refresh sekitar dua kali lipat kecepatan TV standar.</item>
+
+        <item>Xbox Series X dan Series S (nama gabungannya adalah Xbox Series X/S) adalah konsol permainan video mendatang yang dikembangkan oleh Microsoft. Kedua konsol dirilis pada 10 November 2020 sebagai generasi keempat dari konsol Xbox, sebagai penerus dari Xbox One.
+            Rumor mengenai konsol ini pertama kali muncul pada awal 2019, dengan barisan produk tersebut diberi kode nama "Scarlett", dan terdiri dari model kelas atas dan model kelas bawah dengan kode nama "Anaconda" dan "Lockhart". Model kelas atas ini pertama kali ditunjukkan saat acara E3 2019 dengan nama "Project Scarlett", sedangkan nama dan desainnya sebagai Xbox Series X diresmikan saat The Game Awards pada bulan Desember tahun itu. Pada September 2020, Microsoft mengungkapkan nama model kelas bawah sebagai Xbox Series S.</item>
+
+
+    </string-array>
+
+    <string-array name="tech_image">
+        <item>@drawable/ps5</item>
+        <item>@drawable/sx</item>
+
+    </string-array>
+</resources>
